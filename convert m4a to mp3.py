@@ -1,5 +1,14 @@
 
 
+
+
+#Convert an M4A file to MP3. Output file uses 'date modified' and location of source file.
+ 
+#Draft version-- Documentation, codes style and refactoring are works in progress.
+#For compatibility and backup purposes.
+
+
+
 #Output --convert m4a to mp3 file with default settings.
 #        Output file retains location and modification time of the source file.
 #Input  -- Prompt user to select a m4a file, 
